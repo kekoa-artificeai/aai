@@ -1,7 +1,7 @@
 site: Gray - Single column blog and portfolio Jekyll theme
-url: # url
-author: # your name
-author:
+url: https://kekoa-artificeai.github.io/aai/
+author: Kekoa Riggin
+author: Chris Brousseau
   name: # your name
   email: # your email 
   url: # url
@@ -16,20 +16,14 @@ twitter:
   creator: # twitter
   card: summary
 social:
-  name: Ronalds Vilcins
+  name: Kekoa Riggin
   links:
-    - https://twitter.com/example
-    - https://www.dribbble.com/example
-    - https://github.com/example
-    - https://codepen.io/example
+    - https://twitter.com/KekoaRiggin
+    - https://github.com/unclenachoduh
   
-repository: ronv/website
+repository: artifice-ai/aai
 
 permalink: pretty
-
-disqus:
-  name: "your username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            1000
 paginate_path:       "/page:num/"
