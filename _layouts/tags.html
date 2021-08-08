@@ -8,7 +8,7 @@ layout: default
 <ul>
 {% for tag in tags %}
  <li>
-    <a href="/aai/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
+    <a href="/aai/tags/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
 </li>
 
 {% endfor %}
