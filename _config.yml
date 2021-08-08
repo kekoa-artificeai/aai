@@ -1,7 +1,7 @@
 site: Gray - Single column blog and portfolio Jekyll theme
 url: https://kekoa-artificeai.github.io/aai/
 author: Kekoa Riggin
-author: Chris Brousseau
+author: # author
   name: # your name
   email: # your email 
   url: # url
