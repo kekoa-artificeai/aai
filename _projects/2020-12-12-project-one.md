@@ -12,22 +12,16 @@ With the growing popularity of Reddit review videos on YouTube and channels like
 ### Channels
 
 - rnews - The news according to Reddit 
-  - 215 videos 
-  - 1,891 views
-  - [example video](https://www.youtube.com/watch?v=L4sQu9vGiT8)
+    - 215 videos 
+    - 1,891 views
+    - [example video](https://www.youtube.com/watch?v=L4sQu9vGiT8)  
 
-- RAD - Reddit A Day (The best Reddit posts daily)
-  - 102 videos
-  - 4,718 views 
-  - RAD2 (longer videos)
-    - 94 videos
-    - 625 views
-  - [example video](https://www.youtube.com/watch?v=D6jO87FyoYU)
+- RAD - Reddit A Day (& RAD2)
+    - 102 videos / 94 videos
+    - 4,718 views /625 videos
+    - [example video](https://www.youtube.com/watch?v=D6jO87FyoYU)  
 
-- LWIAR - Last Week I Asked Reddit (Best of r/AskReddit)
-  - 106 videos 
-  - 688 views
-  - LWIAR 2 (longer videos)
-    - 99 videos
-    - 257 views 
-  - [example video](https://www.youtube.com/watch?v=D6wMTaVxqtA)
+- LWIAR - Last Week I Asked Reddit (& LWIAR2)
+    - 106 videos / 99 videos
+    - 688 views / 257 views
+    - [example video](https://www.youtube.com/watch?v=D6wMTaVxqtA)  
