@@ -2,12 +2,12 @@
 layout: project
 title: Project One
 description: YouTube Bot
-summary: Creating YouTube content on an automated schedule
-category: Content Creation, Automation
+summary: Creating YouTube content with automation
+category: Inactive, Content Creation, Automation
 tags: [Project One, YouTube, Content Creation, Automation]
 ---
 
-With the growing popularity of Reddit review videos on YouTube and channels like [rSlash](https://www.youtube.com/channel/UC0-swBG9Ne0Vh4OuoJ2bjbA), this project tried to leverage automation to create Reddit-based YouTube videos with a variety of flavors and topics. This project is now defunct due to the limitations of processing and rendering large amounts of content on a daily basis. However, over the projects 9-month lifespan, over 600 videos were uploaded and and viewed over 7,000 times total.
+With the growing popularity of Reddit review videos on YouTube and channels like [rSlash](https://www.youtube.com/channel/UC0-swBG9Ne0Vh4OuoJ2bjbA), this project tried to leverage automation to create Reddit-based YouTube videos with a variety of flavors and topics. This project is now defunct due to the limitations of processing and rendering large amounts of content on a daily basis. However, over the projects 6-month lifespan, over 600 videos were uploaded and and viewed over 7,000 times total.
 
 ## Channels
 

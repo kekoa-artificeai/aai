@@ -3,7 +3,7 @@ layout: post
 title: AAI YouTube channels are dead!
 description: Announcement of the end AAI YouTube channels
 summary: Project One, YouTube Bots, has been sunset.
-tags: [YouTube, Content Creation, Sunset, Project One]
+tags: [Project One, Content Creation, YouTube, Sunset]
 ---
 
 Our first project has been concluded due to a critical failure of one of our dependencies. We currently operate with no revenue and cannot afford to keep these projects alive with premium access to certain project features. It is possible that free-to-use dependencies exist, but we have not been able to locate them and integrating them would require costly refactoring of Project one. 
