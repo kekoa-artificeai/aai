@@ -3,7 +3,7 @@ layout: post
 title: Founding Artifice AI
 description: Announcement of the founding of Artifice AI
 summary: A machine learning research group
-tags: [css]
+tags: [Admin, Milestone]
 ---
 
 Artifice AI is a group for machine learning research. The members of the group are all employed full-time, but allocate some of their free time to working on interesting projects in machine learning and other state-of-the-art technologies.

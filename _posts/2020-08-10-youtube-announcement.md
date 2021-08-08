@@ -3,7 +3,7 @@ layout: post
 title: AAI YouTube channels are live!
 description: Announcement of AAI YouTube channels
 summary: Project One, YouTube Bots, is now live on the internet!
-tags: [css]
+tags: [YouTube, Content Creation, Project One]
 ---
 
 Our first project went live today with the launching of our first fully-automated YouTube channel. You can watch the news-focused channel at [rnews](https://www.youtube.com/channel/UCYLNrsxaFG-GvjpzBgfA-0w).
