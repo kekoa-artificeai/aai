@@ -2,7 +2,7 @@
 layout: project
 title: Project Two
 description: Style Transfer
-summary: Transferring the style of one image to another.
+summary: Transferring the style of one image to another
 category: Machine Learning, Content Creation
 tags: [Project Two, Machine Learning, Content Creation, Automation]
 ---

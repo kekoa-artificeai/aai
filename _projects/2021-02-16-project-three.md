@@ -2,7 +2,7 @@
 layout: project
 title: Project Three
 description: Event Prediction 
-summary: Event prediction
+summary: Predicting the outcome of events with machine learning
 category: Machine Learning
 tags: [Project Three, Machine Learning]
 ---

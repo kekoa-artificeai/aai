@@ -2,7 +2,7 @@
 layout: project
 title: Project One
 description: YouTube Bot
-summary: Creating YouTube content on an automated schedule.
+summary: Creating YouTube content on an automated schedule
 category: Content Creation, Automation
 tags: [Project One, YouTube, Content Creation, Automation]
 ---
