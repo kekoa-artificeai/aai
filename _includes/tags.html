@@ -14,7 +14,7 @@
             <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
             <ul>
                 {% for post in site.tags[tag] %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">
+                <li><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">
 	                {{post.title }}</a> — <time class="date" datetime="{{ post.date | date: "%Y-%m-%d" }}">
 	                {{post.date | date: "%B %-d, %Y" }}</time></li>
                 {% endfor %}
